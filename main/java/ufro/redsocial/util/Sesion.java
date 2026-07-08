@@ -1,4 +1,4 @@
-package cl.ufro.redsocial.util;
+package ufro.redsocial.util;
 
 /**
  * Claves de los atributos guardados en la {@code HttpSession} para la
