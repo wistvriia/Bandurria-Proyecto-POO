@@ -1,4 +1,4 @@
-package cl.ufro.redsocial.exception;
+package ufro.redsocial.exception;
 
 public class CorreoDuplicadoException extends RedSocialException {
 
