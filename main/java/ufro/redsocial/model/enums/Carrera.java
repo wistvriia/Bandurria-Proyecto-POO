@@ -1,4 +1,4 @@
-package cl.ufro.redsocial.model.enums;
+package ufro.redsocial.model.enums;
 
 import java.util.Arrays;
 import java.util.List;
