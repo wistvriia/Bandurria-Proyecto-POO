@@ -1,4 +1,4 @@
-package cl.ufro.redsocial.seguridad;
+package ufro.redsocial.seguridad;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
