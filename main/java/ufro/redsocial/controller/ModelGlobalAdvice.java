@@ -12,6 +12,7 @@ import java.util.List;
 
 
 @ControllerAdvice //Quiere deir que se aplica para todos los Controladores/Controllers
+public class ModelGlobalAdvice {
     private final UsuarioRepository usuarioRepository;
 
     public ModelGlobalAdvice(UsuarioRepository usuarioRepository) {
