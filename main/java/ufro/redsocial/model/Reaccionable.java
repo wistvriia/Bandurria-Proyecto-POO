@@ -1,6 +1,6 @@
-package cl.ufro.redsocial.model;
+package ufro.redsocial.model;
 
-import cl.ufro.redsocial.model.enums.TipoReaccion;
+import ufro.redsocial.model.enums.TipoReaccion;
 
 import java.util.List;
 
