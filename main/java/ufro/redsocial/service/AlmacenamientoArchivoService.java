@@ -1,4 +1,4 @@
-package cl.ufro.redsocial.service;
+package ufro.redsocial.service;
 
 import org.springframework.web.multipart.MultipartFile;
 
