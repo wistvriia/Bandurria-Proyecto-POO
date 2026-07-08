@@ -1,4 +1,4 @@
-package cl.ufro.redsocial.util;
+package ufro.redsocial.util;
 
 import java.util.regex.Pattern;
 
